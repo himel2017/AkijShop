@@ -1,0 +1,23 @@
+{
+
+    "registrationUrl": "http://localhost/Akijshop/api-data/users/register",
+    "loginUrl": "http://localhost/Akijshop/api-data/users/login",
+    "getUserUrl": "http://localhost/Akijshop/api-data/users/get-user?api_token=",
+
+
+    "productsUrl": "http://localhost/Akijshop/api-data/products",
+    "productSearchUrl": "http://localhost/Akijshop/api-data/product/search?search=",
+    "productSingleUrl": "http://localhost/Akijshop/api-data/products/",
+    "productsImageDirectoryUrl": "http://localhost/Akijshop/images/products",
+    "categoryImageDirectoryUrl": "http://localhost/Akijshop/images/categories",
+
+
+    "categoryUrl": "http://localhost/Akijshop/api-data/categories",
+    "categoryProductUrl": "http://localhost/Akijshop/api-data/categories/",
+
+    "addToCartUrl": "http://localhost/Akijshop/api-data/add-cart",
+    "getCartUrl": "http://localhost/Akijshop/api-data/carts",
+    "getDeleteCartUrl": "http://localhost/Akijshop/api-data/delete-cart",
+    "getUpdateCartUrl": "http://localhost/Akijshop/api-data/update-cart",
+    "getCheckoutUrl": "http://localhost/Akijshop/api-data/checkout"
+}
