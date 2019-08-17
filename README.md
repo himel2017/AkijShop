@@ -1,6 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Here is an app demo view:
+
+## Home Page:
+<img src="https://i.ibb.co/0y9G2gk/akij-shop-home.png" alt="akij-shop-home" border="0">
+
+## Cart Page:
+<img src="https://i.ibb.co/xCQvjL0/Cart-items.png" alt="Cart-items" border="0">
+
+## Search Product and Checkout Page:
+<img src="https://i.ibb.co/YybYPNg/Search-and-checkout.png" alt="Search-and-checkout" border="0">
+
+
+
+## All Available Scripts to install this app
 
 In the project directory, you can run:
 
